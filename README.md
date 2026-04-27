@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | Petrescu Ariana
 
 ## Description
 
