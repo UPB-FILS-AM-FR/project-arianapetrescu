@@ -114,7 +114,7 @@ LCD-ul sa se actualizeze)
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+<img width="1952" height="1363" alt="image" src="https://github.com/user-attachments/assets/e9fbdaaf-5c41-4c02-9f20-0921ca3cc364" />
 
 ### Components
 
@@ -130,22 +130,9 @@ LCD-ul sa se actualizeze)
 
 ### Libraries
 
-<!-- This is just an example, fill in the table with your actual components -->
+<img width="1247" height="466" alt="image" src="https://github.com/user-attachments/assets/71d3f6e2-ee9f-4da2-9838-0e3932da6b02" />
 
-| Library | Description | Usage |
-|---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
 
-## Log
-
-<!-- write every week your progress here -->
-
-### Week 6 - 12 May
-
-### Week 7 - 19 May
-
-### Week 20 - 26 May
 
 
 ## Reference links
